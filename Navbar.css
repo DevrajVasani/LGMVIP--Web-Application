@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #3498db;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+  }
+  
+  .brand {
+    font-size: 1.5rem;
+  }
+  
+  button {
+    background-color: #2ecc71;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
